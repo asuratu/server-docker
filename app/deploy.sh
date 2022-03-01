@@ -1,5 +1,5 @@
 #!/bin/bash
-repo=git@codeup.aliyun.com:61b175c645bcdc5071135609/HuaYuanJi/Huayuanji_admin.git
+repo=git@github.com:asuratu/garden-api.git
 dir=releases/$(date +%Y%m%d%H%M%S)
 shared=shared
 uploads=$shared/uploads
