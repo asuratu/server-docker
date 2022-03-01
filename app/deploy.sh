@@ -1,5 +1,5 @@
 #!/bin/bash
-repo=git@codeup.aliyun.com:611e180776b0c8e58d793ed6/Appcoach_Server/hulk/server/hulk-server.git
+repo=git@codeup.aliyun.com:61b175c645bcdc5071135609/HuaYuanJi/Huayuanji_admin.git
 dir=releases/$(date +%Y%m%d%H%M%S)
 shared=shared
 uploads=$shared/uploads
